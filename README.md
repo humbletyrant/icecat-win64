@@ -30,3 +30,7 @@ pref("general.platform.override", "Win32");<br />
 It would be better to create a defect [here](https://lists.gnu.org/mailman/listinfo/bug-gnuzilla)<br />
 3. Unable to download files from Google Drive<br />
 set 'network.cookie.cookieBehavior' to 4
+
+### How to build the package yourself
+See the page [here](https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html) 
+There are two main steps, install Visual Studio and download all dependencies with bootstrap command.
